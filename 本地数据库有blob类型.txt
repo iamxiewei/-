@@ -1,0 +1,10 @@
+SQLITE
+Berkeley DB (内存占用过大，不太理想)
+CouchDB
+LevelDB
+UnQLite
+Vedis
+Mongo DB
+
+
+git clone --recurse-submodules git://github.com/google/leveldb.git
